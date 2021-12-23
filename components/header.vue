@@ -3,6 +3,7 @@ header
   .qrcode(
     v-if="weChatQrCode"
     :class="!showWeChatQrCodeInHTML ? 'print-show' : ''")
+    img(src="../static/wechat.png")
   .tit-top
     h1.name {{name}}
     a.nick(
@@ -97,6 +98,7 @@ header
     background white
     img
       size 100%
+      background-size cover
 
   .tit-top
     overflow hidden

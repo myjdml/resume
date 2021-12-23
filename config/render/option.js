@@ -5,24 +5,24 @@ export default {
    * 此处是方便直接隐藏简历
    * 当内容为字符串时，将自动屏蔽简历，显示屏蔽后的文字
    */
-  blockMsg: true,
+  blockMsg: false,
   /**
    * HTML页面的title
    * @param {[String]}
    */
-  docName: '简历 | 牛奥林',
+  docName: '简历 | 毛尧俊',
   /**
    * 此处是针对SEO优化
    * 会在搜索引擎的摘要界面显示。
    * 默认值为: 张xx(小张)的个人简历 - 搬砖工程师
    * 即默认会展示你的姓名，昵称，职位字段
    */
-  description: '牛奥林（lin0102）的个人简历 - Web前端工程师',
+  description: '毛尧俊（myjdml）的个人简历 - Web前端工程师',
   /**
    * 生成PDF的默认文件名
    * 若不指定，默认为HTML页面的title去除空格后的结果
    */
-  printName: '前端开发工程师-牛奥林-重庆邮电大学',
+  printName: '毛尧俊-重庆邮电大学-23届-18755531731',
   /**
    * 设定 Github Logo 地址
    * 若为空，则不显示
