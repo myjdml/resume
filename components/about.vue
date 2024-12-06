@@ -1,6 +1,6 @@
 <template lang="pug">
-a#about(href="https://github.com/lin0102" target="_blank")
-  span @ lin0102
+a#about(href="https://github.com/myjdml" target="_blank")
+  span @ myjdml
 </template>
 
 <script>
