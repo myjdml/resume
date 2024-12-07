@@ -33,6 +33,7 @@ module.exports = {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
   server: {
+    host: '0.0.0.0',
     port: 4002 // 运行端口
   },
   /**
