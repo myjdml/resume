@@ -19,7 +19,7 @@ export default {
   profiles: [
     '男 · 2023届本科',
     '重庆邮电大学 · 软件工程',
-    '专注前端领域，持续学习',
+    'OPPO云数能力中心 全栈开发（Vue + NextJS）',
   ],
   /**
    * 信息栏
@@ -35,7 +35,7 @@ export default {
    */
   contacts: [
     { address: 'myjdml200@gmail.com', type: 'mail' },
-    { address: 'myjdml.top', type: 'blog' },
+    { address: 'myjdml.github.io', type: 'blog' },
     { address: '18755531731', type: 'tell' }
   ],
   /**

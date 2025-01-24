@@ -22,7 +22,7 @@ export default {
    * 生成PDF的默认文件名
    * 若不指定，默认为HTML页面的title去除空格后的结果
    */
-  printName: '毛尧俊-重庆邮电大学-23届-18755531731',
+  printName: '毛尧俊-18755531731',
   /**
    * 设定 Github Logo 地址
    * 若为空，则不显示
